@@ -1,7 +1,7 @@
 ### Hi, there 👋
 I'm abhishek (a - buh - shek)
 
-I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking summer 2023 internship opportunities. I have over 4 years of productive professional experience in collaborative projects, wherein I achieved benchmarks like a 30% cost reduction through ads outreach and expanse data analysis. Additionally, advanced the tech community growth via blogging, speaking & training with a reputation of 20K & 9 million reads.
+I'm pursuing a Master's in **Data Science** with competence in analytical & problem-solving skills, seeking summer 2023 internship opportunities. I have over 4 years of productive professional experience in collaborative projects, wherein I achieved benchmarks like a 30% cost reduction through ads outreach and expanse data analysis. Additionally, advanced the tech community growth via blogging, speaking & training with a reputation of 20K & 9 million reads.
 
 - 🔭 I’m currently working on - **Python, R, Machine Learning, Tableau, SQL**
 - 🌱 I’m currently learning - Machine Learning Algorithms & their use cases, Statistics, & Mathematics to solve real-life problems
