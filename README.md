@@ -1,5 +1,5 @@
 ### Hi, there 👋
-I'm abhishek (a - buh - shek)
+I'm abhishek (abhi - shek)
 
 I'm a **Data Scholar** with competence in analytical & problem-solving skills. I have 7+ years of productive professional experience in collaborative projects, wherein I achieved benchmarks like a 30% cost reduction through ads outreach and expanse data analysis. Additionally, advanced the tech community growth via blogging, speaking & training with a reputation of **20K & 9 million reads**.
 
